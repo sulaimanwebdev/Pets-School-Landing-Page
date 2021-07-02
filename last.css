@@ -1,0 +1,137 @@
+.mbrib-apple:before {
+    font-family: "Font Awesome 5 Pro"; content: "\f5d1"; font-weight: 300;
+}
+
+.mbrib-globe:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f1e3"; font-weight: 300;   
+
+}
+
+
+.mbrib-github:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f635"; font-weight: 300; 
+}
+
+.mbrib-home:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f80c"; font-weight: 300; 
+
+}
+
+.mmmm:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f80c"; font-weight: 300; 
+    color: white !important;
+
+}
+
+.cid-rGtBqmc2gI .link a:after {
+  display: none;
+}
+
+.mbrib-idea:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f76b"; font-weight: 300; 
+
+}  
+
+
+.mbrib-success:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f00c"; font-weight: 300; 
+
+}
+
+
+.mbri-close:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f00d"; font-weight: 300; 
+
+}
+.mbri-success:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f00c"; font-weight: 300; 
+
+}
+
+
+.mbrib-star:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f005"; font-weight: 300; 
+
+}
+
+
+.mbrib-hearth:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f004"; font-weight: 300; 
+
+}
+
+.mbrib-alert:before {
+    font-family: "Font Awesome 5 Pro"; content: "\f77f"; font-weight: 300; 
+
+}
+
+.mbrib-quote-left:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f10d"; font-weight: 300; 
+
+}
+
+.mbrib-pin:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f60d"; font-weight: 300; 
+
+}
+
+
+.mbrib-letter:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f0e0"; font-weight: 300; 
+
+}
+
+
+.socicon-twitter:before{
+    display: none; 
+
+}
+
+
+.socicon-instagram:before{
+    display: none; 
+
+}
+
+
+.socicon-youtube:before{
+    display: none; 
+
+}
+
+
+.socicon-twitter, .socicon-instagram, .socicon-youtube{
+cursor: pointer;
+}
+
+
+.mbrib-key:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f879"; font-weight: 300; 
+    
+}
+
+
+.mbrib-clock:before{
+    font-family: "Font Awesome 5 Pro"; content: "\f017"; font-weight: 300; 
+
+}
+
+
+@media (max-width:991px){
+
+    .cid-rGsOE1E5qe{
+        margin-top: 100px;
+        }
+        .mainn{
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
+            flex-direction: column;
+        }
+
+        .mainn *{
+            text-align: left !important;
+        }
+}
+
+
